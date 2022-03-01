@@ -1,5 +1,5 @@
 # Forked from JiageWang/opencv-pyqt5F
-# 此Fork只是为了防止地址更改导致的链接失效
+# 此Fork只是为了防止原作者更改地址导致的引用失效
 # opencv-pyqt5
 使用opencv与pyqt5实现的图像处理程序
 ![demo.jpg](demo.png)
